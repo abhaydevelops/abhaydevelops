@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhaydevelops
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning ...HTML 
+- 🌱 I’m currently learning ...Frontend Development 
 - Contact me on... Email:abhaysinghlko29@gmail.com
 
 <!---
